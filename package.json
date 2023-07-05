@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "datamuse": "^1.0.5"
   }
 }
